@@ -1,0 +1,7 @@
+<svg width="330" height="110" viewBox="0 0 330 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Java Backend как в BigTech">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="330" y2="110" gradientUnits="userSpaceOnUse"><stop stop-color="#18111F"/><stop offset="1" stop-color="#7900F1"/></linearGradient></defs>
+  <rect x="1" y="1" width="328" height="108" rx="15" fill="url(#g)" stroke="#B061FF" stroke-opacity="0.45"/>
+  <text x="20" y="43" fill="white" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">Java Backend</text>
+  <text x="20" y="70" fill="#DDBDFF" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">как в BigTech</text>
+  <text x="300" y="70" text-anchor="end" fill="#E9D4FF" font-family="Arial,sans-serif" font-size="24">→</text>
+</svg>
