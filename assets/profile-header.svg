@@ -1,0 +1,37 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Павел Сорокин — Java Backend Engineer и основатель Sorokin School</title>
+  <desc id="description">Опыт в YooMoney и ВТБ, карточном эквайринге, инвестиционных продуктах и высоконагруженных банковских системах.</desc>
+  <defs>
+    <linearGradient id="background" x1="58" y1="20" x2="1118" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#100C15"/>
+      <stop offset="0.52" stop-color="#28133B"/>
+      <stop offset="1" stop-color="#7900F1"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="58" y1="0" x2="320" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C081FF"/>
+      <stop offset="1" stop-color="#7900F1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 58) rotate(126.5) scale(310 390)">
+      <stop stop-color="#C081FF" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#7900F1" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#08050C" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#glow)"/>
+  <g opacity="0.16" stroke="#E9D4FF">
+    <path d="M880 28H1170"/><path d="M845 64H1170"/><path d="M940 100H1170"/>
+    <path d="M900 136H1170"/><path d="M970 172H1170"/><path d="M870 208H1170"/><path d="M930 244H1170"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="870" y="78" width="232" height="144" rx="24" fill="#110A19" fill-opacity="0.58" stroke="#C081FF" stroke-opacity="0.28"/>
+    <text x="986" y="168" text-anchor="middle" fill="#C081FF" fill-opacity="0.42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="68" font-weight="700">&lt;/&gt;</text>
+  </g>
+  <rect x="58" y="46" width="128" height="6" rx="3" fill="url(#accent)"/>
+  <text x="58" y="112" fill="#FFFFFF" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5">Павел Сорокин</text>
+  <text x="58" y="153" fill="#E9D4FF" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="24" font-weight="650">Java Backend Engineer · Основатель Sorokin School</text>
+  <text x="58" y="202" fill="#D9C5E8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">YooMoney, ВТБ · карточный эквайринг · инвестиционные продукты</text>
+  <text x="58" y="234" fill="#D9C5E8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">Высоконагруженные банковские системы</text>
+</svg>
