@@ -32,6 +32,6 @@
   <rect x="58" y="46" width="128" height="6" rx="3" fill="url(#accent)"/>
   <text x="58" y="112" fill="#FFFFFF" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5">Павел Сорокин</text>
   <text x="58" y="153" fill="#E9D4FF" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="24" font-weight="650">Java Backend Engineer · Основатель Sorokin School</text>
-  <text x="58" y="202" fill="#D9C5E8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">YooMoney, ВТБ · карточный эквайринг · инвестиционные продукты</text>
+  <text x="58" y="202" fill="#D9C5E8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">ex-YooMoney, ex-ВТБ · карточный эквайринг · инвестиционные продукты</text>
   <text x="58" y="234" fill="#D9C5E8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">Высоконагруженные банковские системы</text>
 </svg>
